@@ -217,7 +217,6 @@ D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\u2dofao3we-61n19gt1b8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\69u5s3hjf6-xtxxf3hu2r.gz
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\zwdth5va4k-bqjiyaj88i.gz
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\uxcng6plcm-c2jlpeoesf.gz
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\aosuyx8ts6-erw9l3u2r3.gz
@@ -290,3 +289,5 @@ D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.genruntimeconfig.cache
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\ref\UC-Web-Assessment.dll
 D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\12vj4vdws2-atwvan88l7.gz
+D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.sourcelink.json
+D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\69u5s3hjf6-v2s0shxpor.gz

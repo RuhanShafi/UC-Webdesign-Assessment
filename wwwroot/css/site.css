@@ -1,0 +1,132 @@
+/* wwwroot/css/site.css */
+
+/* -------------------------------------- */
+/* 1. Full-Width Layout Styles */
+/* -------------------------------------- */
+/* Ensure body and html are full height/width if needed, and remove default margin/padding */
+html {
+    font-size: 14px;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+/* Override default Bootstrap container if necessary to truly eliminate gaps.
+   Using container-fluid or direct styling on the content div is better. */
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Ensure navbar and footer take up the full viewport width */
+.full-width-nav, .full-width-footer {
+    width: 100vw; /* Viewport width */
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/* Remove side padding/margins from the main content wrapper if any default wrapper is used */
+.main-content {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+
+/* -------------------------------------- */
+/* 2. Home Page (Index.cshtml) Styles */
+/* -------------------------------------- */
+.parallax-section {
+    /* Required for parallax scrolling: fixed background */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px; /* Example height for visibility */
+    display: flex; /* Using Flexbox for content alignment */
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    padding: 20px;
+}
+
+.parallax-1 {
+    /* Use your own copyright-free image */
+    background-image: url('../media/ai_healthcare_bg1.jpg');
+}
+
+.hero-text-container {
+    padding: 0 5vw; /* Adjust padding for better look */
+    max-width: 1200px;
+}
+
+/* Main Heading: Generative Artificial Intelligence */
+.main-heading {
+    /* font-family: 'Anton', sans-serif; */
+    background-image: linear-gradient(to right, brown, brown, yellow, white, yellow, brown, brown);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: brown;
+    padding: 9vw 2vw 0vw 2vw; /* Use padding-top to push it down if needed */
+    text-align: center;
+    font-size: 7vw; /* Responsive font size */
+    margin: 0;
+    line-height: 1; /* Adjust line height if necessary */
+}
+
+/* Text Below Heading */
+.sub-text {
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 2vw; /* Responsive font size */
+    text-align: center;
+    padding: 1vw 2vw 2vw 2vw;
+    font-weight: 400;
+}
+
+/* Content Sections - Using Bootstrap Grid for responsiveness */
+.content-grid {
+    padding: 40px 0;
+    margin: 0;
+}
+.grid-item {
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+}
+
+/* CSS for mouse over/mouse out (Hover effect) */
+.grid-item:hover {
+    background-color: #f8f9fa; /* Light background on hover */
+    transform: translateY(-5px); /* Lift effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* -------------------------------------- */
+/* 3. Media Queries for Responsiveness */
+/* -------------------------------------- */
+
+/* Small devices (up to 767px) */
+@media (max-width: 767.98px) {
+    /* Adjust font sizes for smaller screens to be more readable */
+    .main-heading {
+        font-size: 12vw; /* Larger font for small screens */
+        padding-top: 5vw;
+        padding-bottom: 2vw;
+    }
+    .sub-text {
+        font-size: 4vw; /* Larger font for small screens */
+    }
+    .parallax-section {
+        min-height: 350px;
+    }
+}
+
+/* Use media queries to switch between layouts if needed (e.g., Flexbox vs Grid adjustments) */
+/* Example: For the creative page's responsiveness */
+@media (min-width: 992px) { /* Large devices */
+    /* Adjustments for larger screens */
+}

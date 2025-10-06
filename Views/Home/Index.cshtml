@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Generative AI in Healthcare";
+}
+
+<div class="container-fluid p-0">
+    <section class="parallax-section parallax-1">
+        <div class="hero-text-container">
+            <h1 class="main-heading">AI in Healthcare</h1>
+
+            <p class="sub-text">
+                Generative artificial intelligence is artificial intelligence capable of generating
+                text, images, videos, or other data using generative models, often in response to
+                prompts. Generative AI models learn the patterns and structure of their input training
+                data and then generate new data that has similar characteristics.
+                <br><em>Wikipedia</em>
+            </p>
+        </div>
+    </section>
+
+    <section class="content-grid bg-white">
+        <h2 class="text-center mb-5">AI in Healthcare Focus Areas</h2>
+
+        <div class="row row-cols-1 row-cols-md-3 g-4 mx-0">
+            <div class="col grid-item" onmouseover="mouseOverEffect(this)" onmouseout="mouseOutEffect(this)">
+                <h3 class="h4">Enhanced Diagnosis</h3>
+                <p>AI models can analyze medical images (X-rays, MRIs) with speed and accuracy far exceeding human capacity, assisting in early disease detection.</p>
+                <a href="#diagnosis-detail" class="btn btn-primary">Learn More</a>
+            </div>
+
+            <div class="col grid-item" onmouseover="mouseOverEffect(this)" onmouseout="mouseOutEffect(this)">
+                <h3 class="h4">Accelerated Drug Discovery</h3>
+                <p>Generative AI can design novel protein structures and predict molecular properties, drastically cutting down the time and cost of drug development.</p>
+                <a href="#drug-detail" class="btn btn-primary">Discover</a>
+            </div>
+
+            <div class="col grid-item" onmouseover="mouseOverEffect(this)" onmouseout="mouseOutEffect(this)">
+                <h3 class="h4">Personalized Treatment Plans</h3>
+                <p>By analyzing a patient's genetic data, medical history, and lifestyle, AI can generate tailored treatment protocols for optimal outcomes.</p>
+                <a href="#treatment-detail" class="btn btn-primary">See Details</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="js-generated-content" class="bg-light p-5">
+        <h2 class="text-center mb-4">Interactive Content</h2>
+        <div id="dynamic-content-area" class="text-center">
+            <button id="generate-btn" class="btn btn-success">Show AI Impact Fact</button>
+        </div>
+    </section>
+
+    <section class="parallax-section parallax-2" style="background-image: url('../media/ai_healthcare_bg2.jpg'); min-height: 300px;">
+        <h2>The Future is Now</h2>
+    </section>
+</div>
+
+@section Scripts {
+    <script src="~/js/site.js" asp-append-version="true"></script>
+}

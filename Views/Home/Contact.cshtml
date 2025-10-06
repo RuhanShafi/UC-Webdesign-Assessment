@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Contact & Credits";
+}
+
+<div class="container py-5">
+    <h1 class="mb-4">Contact Information</h1>
+    <p>For inquiries regarding this project, please use the form below or contact the administrator.</p>
+
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <h3>Send a Message</h3>
+            <form>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="email" required>
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Message</label>
+                    <textarea class="form-control" id="message" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <h3>Source Credits & Licensing</h3>
+            <p>All media and content used in this assessment website are sourced from copyright-free resources or created specifically for this project.</p>
+            
+            <h4 class="h5 mt-4">Content Sources:</h4>
+            <ul>
+                <li>**Generative AI Definition:** Adapted from Wikipedia (Content is public domain/CC BY-SA).</li>
+            </ul>
+
+            <h4 class="h5 mt-4">Media Sources:</h4>
+            <p>*(Replace these with the actual sources for your images)*</p>
+            <ul>
+                <li>**Parallax Image 1 (`ai_healthcare_bg1.jpg`):** Sourced from Unsplash (Author: [Author Name]) - Free for commercial use.</li>
+                <li>**Parallax Image 2 (`ai_healthcare_bg2.jpg`):** Created by [Your Name] using a Generative AI platform (e.g., Midjourney/DALL-E) and licensed under CC0 for this project.</li>
+                <li>**All Icons/Imagery:** Utilizes Bootstrap Icons, licensed under MIT.</li>
+            </ul>
+
+            <h4 class="h5 mt-4">Frameworks & Libraries:</h4>
+            <ul>
+                <li>**ASP.NET Core MVC (C#):** Microsoft</li>
+                <li>**Frontend:** HTML5, CSS3, JavaScript</li>
+                <li>**Styling & Responsiveness:** Bootstrap 5, Flexbox, Grid</li>
+                <li>**Fonts:** Google Fonts (Anton, Montserrat) - SIL Open Font License.</li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-﻿// wwwroot/js/site.js
+﻿// JS used for the Home Page, Mostly for the Quick Facts Section.
 
 // 1. Function for Mouse Over (Hover) Event
 function mouseOverEffect(element) {

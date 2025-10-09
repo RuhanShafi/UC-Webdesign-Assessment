@@ -1,0 +1,31 @@
+@model IEnumerable<UC_Web_Assessment.Models.AIImage>
+
+@{
+    ViewData["Title"] = "AI Image Gallery";
+    // NOTE: Add logic here to inject the User/Role manager later to handle the Edit/Delete button visibility.
+}
+
+<h1>AI Images</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+@foreach (var item in Model) {
+    <div class="col">
+        <div class="card h-100">
+            <img src="@item.ImagePath" class="card-img-top" alt="@item.Title" style="height: 200px; object-fit: cover;">
+            <div class="card-body">
+                <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
+                <p class="card-text">@Html.DisplayFor(modelItem => item.Description)</p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </div>
+        </div>
+    </div>
+}
+</div>

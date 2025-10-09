@@ -1,7 +1,7 @@
-// Models/AIImage.cs
-
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema; 
+using Microsoft.AspNetCore.Http; 
 
 namespace UC_Web_Assessment.Models 
 {
@@ -23,5 +23,8 @@ namespace UC_Web_Assessment.Models
 
         // Required for Member-level authorization (Who created this?)
         public required string CreatorId { get; set; } 
+
+        [NotMapped] // Tell EF Core NOT to map this to a database column
+        public IFormFile ImageFile { get; set; } 
     }
 }

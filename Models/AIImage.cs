@@ -24,7 +24,7 @@ namespace UC_Web_Assessment.Models
         // Required for Member-level authorization (Who created this?)
         public required string CreatorId { get; set; } 
 
-        [NotMapped] // Tell EF Core NOT to map this to a database column
-        public IFormFile ImageFile { get; set; } 
+        [NotMapped]
+        public IFormFile ImageFile { get; set; }  
     }
 }

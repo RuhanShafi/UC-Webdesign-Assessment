@@ -16,11 +16,6 @@ namespace UC_Web_Assessment.Controllers
         private readonly ApplicationDbContext _context;
         private readonly IWebHostEnvironment _hostEnvironment;
 
-        public AIImagesController(ApplicationDbContext context)
-        {
-            _context = context;
-        }
-
         public AIImagesController(ApplicationDbContext context, IWebHostEnvironment hostEnvironment)
         {
             _context = context;

@@ -3565,19 +3565,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ruhanshafi\\.nuget\\packages\\": {}
+    "/home/ruhanshafi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\User Data\\Ruhan's Data\\Documents\\Code\\New folder\\UC-Web-Assessment\\UC-Web-Assessment.csproj",
+      "projectUniqueName": "/home/ruhanshafi/Projects/UC-Webdesign-Assessment/UC-Web-Assessment.csproj",
       "projectName": "UC-Web-Assessment",
-      "projectPath": "D:\\User Data\\Ruhan's Data\\Documents\\Code\\New folder\\UC-Web-Assessment\\UC-Web-Assessment.csproj",
-      "packagesPath": "C:\\Users\\ruhanshafi\\.nuget\\packages\\",
-      "outputPath": "D:\\User Data\\Ruhan's Data\\Documents\\Code\\New folder\\UC-Web-Assessment\\obj\\",
+      "projectPath": "/home/ruhanshafi/Projects/UC-Webdesign-Assessment/UC-Web-Assessment.csproj",
+      "packagesPath": "/home/ruhanshafi/.nuget/packages/",
+      "outputPath": "/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruhanshafi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ruhanshafi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3601,7 +3601,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -3639,6 +3639,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -3647,7 +3653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

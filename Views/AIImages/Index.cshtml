@@ -1,31 +1,59 @@
 @model IEnumerable<UC_Web_Assessment.Models.AIImage>
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<IdentityUser> UserManager
 
 @{
     ViewData["Title"] = "AI Image Gallery";
-    // NOTE: Add logic here to inject the User/Role manager later to handle the Edit/Delete button visibility.
+    var currentUserId = UserManager.GetUserId(User);
+    var isAdmin = User.IsInRole("Admin");
 }
 
-<h1>AI Images</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-@foreach (var item in Model) {
-    <div class="col">
-        <div class="card h-100">
-            <img src="@item.ImagePath" class="card-img-top" alt="@item.Title" style="height: 200px; object-fit: cover;">
-            <div class="card-body">
-                <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
-                <p class="card-text">@Html.DisplayFor(modelItem => item.Description)</p>
-            </div>
-            <div class="card-footer">
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </div>
+<div class="container-fluid py-5">
+    <div class="row mb-4 align-items-center">
+        <div class="col-12 col-md-8">
+            <h1 class="display-4">AI Images Gallery</h1>
+        </div>
+        <div class="col-12 col-md-4 text-md-end">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a asp-action="Create" class="btn btn-lg btn-success">Upload New Image</a>
+            }
         </div>
     </div>
-}
+
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@item.ImagePath" class="card-img-top" alt="@item.Title" style="height: 250px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
+                        <p class="card-text text-muted">Created: @item.CreatedDate.ToShortDateString()</p>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Description)</p>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Details</a>
+                        <div>
+                            @if (item.CreatorId == currentUserId || isAdmin)
+                            {
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning me-2">Edit</a>
+                            }
+                            @if (isAdmin)
+                            {
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
 </div>

@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UC_Web_Assessment
 build_property.RootNamespace = UC_Web_Assessment
-build_property.ProjectDir = D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\
+build_property.ProjectDir = /home/ruhanshafi/Projects/UC-Webdesign-Assessment/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment
+build_property.MSBuildProjectDirectory = /home/ruhanshafi/Projects/UC-Webdesign-Assessment
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Areas/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/AIImages/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlJbWFnZXNcQ3JlYXRlLmNzaHRtbA==
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/AIImages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQUlJbWFnZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/AIImages/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlJbWFnZXNcRGVsZXRlLmNzaHRtbA==
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/AIImages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQUlJbWFnZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/AIImages/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlJbWFnZXNcRGV0YWlscy5jc2h0bWw=
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/AIImages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQUlJbWFnZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/AIImages/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlJbWFnZXNcRWRpdC5jc2h0bWw=
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/AIImages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQUlJbWFnZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/AIImages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUlJbWFnZXNcSW5kZXguY3NodG1s
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/AIImages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQUlJbWFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Shared/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-0bm5tsh4tx
+[/home/ruhanshafi/Projects/UC-Webdesign-Assessment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y5pwlex4ya

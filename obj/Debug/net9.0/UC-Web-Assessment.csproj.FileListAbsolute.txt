@@ -1,293 +1,587 @@
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\appsettings.Development.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\appsettings.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.staticwebassets.runtime.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.staticwebassets.endpoints.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\app.db
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.exe
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.deps.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.runtimeconfig.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\UC-Web-Assessment.pdb
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Humanizer.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Build.Locator.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Embedded.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\Mono.TextTemplating.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\SQLitePCLRaw.core.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.CodeDom.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.Composition.Convention.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.Composition.Hosting.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.Composition.Runtime.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\System.Composition.TypedParts.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.csproj.AssemblyReference.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.GeneratedMSBuildEditorConfig.editorconfig
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.AssemblyInfoInputs.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.AssemblyInfo.cs
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.csproj.CoreCompileInputs.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cs
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.RazorAssemblyInfo.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.RazorAssemblyInfo.cs
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\rjimswa.dswa.cache.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\scopedcss\bundle\UC-Web-Assessment.styles.css
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\scopedcss\projectbundle\UC-Web-Assessment.bundle.scp.css
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\u2dofao3we-61n19gt1b8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\zwdth5va4k-bqjiyaj88i.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\uxcng6plcm-c2jlpeoesf.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\aosuyx8ts6-erw9l3u2r3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\72hejqnec4-aexeepp0ev.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\pvhanv9kgq-d7shbmvgxk.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\mg4utk4jwq-ausgxo2sd3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\vurcwjgqvg-k8d9w2qqmf.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\3016p1ktn4-cosvhxvwiu.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\34mwjbn3ab-ub07r2b239.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\n4e3apk1p7-fvhpjtyr6v.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\e5qh1hcvv0-b7pk76d08c.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\g81sqhe655-fsbi9cje9m.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\0dd67g78iv-rzd6atqjts.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\dufi1xuzvv-ee0r1s7dh0.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\q490ya79kr-dxx9fxp4il.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\i0z4vtrz3p-jd9uben2k1.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\isbtkio7qk-khv3u5hwcm.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ogqqs07mm1-r4e9w2rdcm.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\xjhvkecn5x-lcd1t2u6c8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\5kydxwxi5j-c2oey78nd0.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ugr0wwrljy-tdbxkamptv.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\exo8mj0pbp-j5mq2jizvt.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\8k5spr2rm4-06098lyss8.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\v7b5c0s79n-nvvlpmu67g.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\27kp555u2q-s35ty4nyc5.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ix850muph4-pj5nd1wqec.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\oq965vm8it-46ein0sx1k.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\q1c25pdt94-v0zj4ognzu.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\882ea7edv1-37tfw0ft22.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\5gynv28l35-hrwsygsryq.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\s3le5holbk-pk9g2wxc8p.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\3hgr1avkq9-ft3s53vfgj.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\zo0ftf44eb-6cfz1n2cew.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\5b0c0zwygj-6pdc2jztkx.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\obtdcn2tmw-493y06b0oq.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\m6qtvk6jeq-iovd86k7lj.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\kqr2i5u4i5-vr1egmr9el.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\qz80ddrptg-kbrnm935zg.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\yu3eo60o1a-jj8uyg4cgr.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\gyljal8ke3-y7v9cxd14o.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\j2benezqi6-notf2xhcfb.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\ch59fmvqpp-h1s4sie4z3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\u7a3uzvpas-63fj8s7r0e.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\30ilhg453s-0j3bgjxly4.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\smlsmct8wh-47otxtyo56.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\hmhjdfte1u-4v8eqarkd7.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\wazrngeqtd-356vix0kms.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\p08kgeo31r-83jwlth58m.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\202qurldtp-mrlpezrjn3.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\i5hjfbytdk-lzl9nlhx6b.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\f3u5d6q1gg-ag7o75518u.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\1rmgm1mj65-x0q3zqp4vz.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\0hspy07txx-0i3buxo5is.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\mfv4t22g9v-o1o13a6vjx.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\pyfava8sh5-ttgo8qnofa.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\3bzj5csvaj-2z0ns9nrw6.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\gfw1w8ll81-muycvpuwrr.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\6sbqgs1sak-87fc7y1x7t.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\dfjzgjyw9e-mlv21k5csn.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\b1l0mf92o2-q4ja2ouk2g.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\bf6wduwszp-q4ja2ouk2g.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\staticwebassets.build.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\staticwebassets.build.json.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\staticwebassets.development.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-A.91C8ED5E.Up2Date
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\refint\UC-Web-Assessment.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.pdb
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.genruntimeconfig.cache
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\ref\UC-Web-Assessment.dll
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\UC-Web-Assessment.sourcelink.json
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\12vj4vdws2-2ldarfiw92.gz
-D:\User Data\Ruhan's Data\Documents\Code\New folder\UC-Web-Assessment\obj\Debug\net9.0\compressed\3lu0sl8iv5-z78ltxrxva.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/appsettings.Development.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/appsettings.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.staticwebassets.runtime.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.staticwebassets.endpoints.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/app.db
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.exe
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.deps.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.runtimeconfig.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/UC-Web-Assessment.pdb
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Humanizer.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/Mono.TextTemplating.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.CodeDom.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.Composition.Convention.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.Composition.Hosting.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.Composition.Runtime.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/System.Composition.TypedParts.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.csproj.AssemblyReference.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/rpswa.dswa.cache.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.AssemblyInfoInputs.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.AssemblyInfo.cs
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.csproj.CoreCompileInputs.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cs
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.RazorAssemblyInfo.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.RazorAssemblyInfo.cs
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/rjimswa.dswa.cache.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/scopedcss/bundle/UC-Web-Assessment.styles.css
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/scopedcss/projectbundle/UC-Web-Assessment.bundle.scp.css
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/u2dofao3we-61n19gt1b8.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/zwdth5va4k-bqjiyaj88i.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/uxcng6plcm-c2jlpeoesf.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/aosuyx8ts6-erw9l3u2r3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/72hejqnec4-aexeepp0ev.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/pvhanv9kgq-d7shbmvgxk.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/mg4utk4jwq-ausgxo2sd3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/vurcwjgqvg-k8d9w2qqmf.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/3016p1ktn4-cosvhxvwiu.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/34mwjbn3ab-ub07r2b239.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/n4e3apk1p7-fvhpjtyr6v.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/e5qh1hcvv0-b7pk76d08c.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/g81sqhe655-fsbi9cje9m.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/0dd67g78iv-rzd6atqjts.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/dufi1xuzvv-ee0r1s7dh0.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/q490ya79kr-dxx9fxp4il.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/i0z4vtrz3p-jd9uben2k1.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/isbtkio7qk-khv3u5hwcm.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ogqqs07mm1-r4e9w2rdcm.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/xjhvkecn5x-lcd1t2u6c8.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/5kydxwxi5j-c2oey78nd0.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ugr0wwrljy-tdbxkamptv.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/exo8mj0pbp-j5mq2jizvt.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/8k5spr2rm4-06098lyss8.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/v7b5c0s79n-nvvlpmu67g.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/27kp555u2q-s35ty4nyc5.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ix850muph4-pj5nd1wqec.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/oq965vm8it-46ein0sx1k.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/q1c25pdt94-v0zj4ognzu.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/882ea7edv1-37tfw0ft22.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/5gynv28l35-hrwsygsryq.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/s3le5holbk-pk9g2wxc8p.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/3hgr1avkq9-ft3s53vfgj.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/zo0ftf44eb-6cfz1n2cew.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/5b0c0zwygj-6pdc2jztkx.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/obtdcn2tmw-493y06b0oq.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/m6qtvk6jeq-iovd86k7lj.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/kqr2i5u4i5-vr1egmr9el.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/qz80ddrptg-kbrnm935zg.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/yu3eo60o1a-jj8uyg4cgr.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/gyljal8ke3-y7v9cxd14o.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/j2benezqi6-notf2xhcfb.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/ch59fmvqpp-h1s4sie4z3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/u7a3uzvpas-63fj8s7r0e.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/30ilhg453s-0j3bgjxly4.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/smlsmct8wh-47otxtyo56.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/hmhjdfte1u-4v8eqarkd7.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/wazrngeqtd-356vix0kms.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/p08kgeo31r-83jwlth58m.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/202qurldtp-mrlpezrjn3.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/i5hjfbytdk-lzl9nlhx6b.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/f3u5d6q1gg-ag7o75518u.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/1rmgm1mj65-x0q3zqp4vz.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/0hspy07txx-0i3buxo5is.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/mfv4t22g9v-o1o13a6vjx.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/pyfava8sh5-ttgo8qnofa.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/3bzj5csvaj-2z0ns9nrw6.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/gfw1w8ll81-muycvpuwrr.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/6sbqgs1sak-87fc7y1x7t.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/dfjzgjyw9e-mlv21k5csn.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/b1l0mf92o2-q4ja2ouk2g.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/bf6wduwszp-q4ja2ouk2g.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/staticwebassets.build.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/staticwebassets.build.json.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/staticwebassets.development.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-A.91C8ED5E.Up2Date
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/refint/UC-Web-Assessment.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.pdb
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.genruntimeconfig.cache
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/ref/UC-Web-Assessment.dll
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/UC-Web-Assessment.sourcelink.json
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/12vj4vdws2-2ldarfiw92.gz
+D:/User Data/Ruhan's Data/Documents/Code/New folder/UC-Web-Assessment/obj/Debug/net9.0/compressed/3lu0sl8iv5-z78ltxrxva.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/appsettings.Development.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/appsettings.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/app.db
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.staticwebassets.runtime.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.staticwebassets.endpoints.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.deps.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.runtimeconfig.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/UC-Web-Assessment.pdb
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Humanizer.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Data.Sqlite.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/SQLitePCLRaw.batteries_v2.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/SQLitePCLRaw.core.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.CodeDom.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.csproj.AssemblyReference.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.AssemblyInfoInputs.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.AssemblyInfo.cs
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.csproj.CoreCompileInputs.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cs
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.MvcApplicationPartsAssemblyInfo.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.RazorAssemblyInfo.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.RazorAssemblyInfo.cs
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.sourcelink.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/scopedcss/bundle/UC-Web-Assessment.styles.css
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/scopedcss/projectbundle/UC-Web-Assessment.bundle.scp.css
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/12vj4vdws2-8fx86ffc3e.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/u2dofao3we-61n19gt1b8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/3lu0sl8iv5-q2dh7hczle.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/zwdth5va4k-bqjiyaj88i.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/uxcng6plcm-c2jlpeoesf.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/aosuyx8ts6-erw9l3u2r3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/72hejqnec4-aexeepp0ev.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/pvhanv9kgq-d7shbmvgxk.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/mg4utk4jwq-ausgxo2sd3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/vurcwjgqvg-k8d9w2qqmf.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/3016p1ktn4-cosvhxvwiu.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/34mwjbn3ab-ub07r2b239.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/n4e3apk1p7-fvhpjtyr6v.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/e5qh1hcvv0-b7pk76d08c.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/g81sqhe655-fsbi9cje9m.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/0dd67g78iv-rzd6atqjts.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/dufi1xuzvv-ee0r1s7dh0.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/q490ya79kr-dxx9fxp4il.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/i0z4vtrz3p-jd9uben2k1.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/isbtkio7qk-khv3u5hwcm.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ogqqs07mm1-r4e9w2rdcm.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/xjhvkecn5x-lcd1t2u6c8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/5kydxwxi5j-c2oey78nd0.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ugr0wwrljy-tdbxkamptv.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/exo8mj0pbp-j5mq2jizvt.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/8k5spr2rm4-06098lyss8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/v7b5c0s79n-nvvlpmu67g.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/27kp555u2q-s35ty4nyc5.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ix850muph4-pj5nd1wqec.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/oq965vm8it-46ein0sx1k.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/q1c25pdt94-v0zj4ognzu.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/882ea7edv1-37tfw0ft22.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/5gynv28l35-hrwsygsryq.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/s3le5holbk-pk9g2wxc8p.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/3hgr1avkq9-ft3s53vfgj.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/zo0ftf44eb-6cfz1n2cew.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/5b0c0zwygj-6pdc2jztkx.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/obtdcn2tmw-493y06b0oq.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/m6qtvk6jeq-iovd86k7lj.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/kqr2i5u4i5-vr1egmr9el.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/qz80ddrptg-kbrnm935zg.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/yu3eo60o1a-jj8uyg4cgr.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/gyljal8ke3-y7v9cxd14o.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/j2benezqi6-notf2xhcfb.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/ch59fmvqpp-h1s4sie4z3.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/u7a3uzvpas-63fj8s7r0e.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/30ilhg453s-0j3bgjxly4.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/smlsmct8wh-47otxtyo56.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/hmhjdfte1u-4v8eqarkd7.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/wazrngeqtd-l3n5xuwxn8.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/p08kgeo31r-ilo7uva0vt.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/202qurldtp-qlccset4i1.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/i5hjfbytdk-lzl9nlhx6b.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/f3u5d6q1gg-ag7o75518u.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/1rmgm1mj65-xzw0cte36n.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/0hspy07txx-0i3buxo5is.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/mfv4t22g9v-o1o13a6vjx.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/pyfava8sh5-ttgo8qnofa.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/3bzj5csvaj-2z0ns9nrw6.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/gfw1w8ll81-muycvpuwrr.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/6sbqgs1sak-87fc7y1x7t.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/dfjzgjyw9e-jfsiqqwiad.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/b1l0mf92o2-jfre6k4vtp.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/compressed/bf6wduwszp-jfre6k4vtp.gz
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets.build.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets.development.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets/msbuild.UC-Web-Assessment.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets/msbuild.UC-Web-Assessment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets/msbuild.build.UC-Web-Assessment.props
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.UC-Web-Assessment.props
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.UC-Web-Assessment.props
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/staticwebassets.pack.json
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-A.91C8ED5E.Up2Date
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/refint/UC-Web-Assessment.dll
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.pdb
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/UC-Web-Assessment.genruntimeconfig.cache
+/home/ruhanshafi/Projects/UC-Webdesign-Assessment/obj/Debug/net9.0/ref/UC-Web-Assessment.dll

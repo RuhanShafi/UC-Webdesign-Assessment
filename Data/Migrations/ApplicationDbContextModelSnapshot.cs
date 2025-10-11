@@ -234,6 +234,9 @@ namespace UC_Web_Assessment.Data.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<int>("LikeCount")
+                        .HasColumnType("INTEGER");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(100)
@@ -242,6 +245,30 @@ namespace UC_Web_Assessment.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("AIImage");
+                });
+
+            modelBuilder.Entity("UC_Web_Assessment.Models.ImageLike", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("AIImageId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<DateTime>("LikedDate")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("UserId")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AIImageId", "UserId")
+                        .IsUnique();
+
+                    b.ToTable("ImageLike");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -293,6 +320,22 @@ namespace UC_Web_Assessment.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("UC_Web_Assessment.Models.ImageLike", b =>
+                {
+                    b.HasOne("UC_Web_Assessment.Models.AIImage", "AIImage")
+                        .WithMany("Likes")
+                        .HasForeignKey("AIImageId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AIImage");
+                });
+
+            modelBuilder.Entity("UC_Web_Assessment.Models.AIImage", b =>
+                {
+                    b.Navigation("Likes");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,0 +1,76 @@
+/* Like Button Styling */
+.like-btn {
+    transition: all 0.3s ease;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.like-btn:hover:not(:disabled) {
+    transform: scale(1.1);
+}
+
+.like-btn.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.like-btn.btn-outline-danger:hover:not(:disabled) {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: white;
+}
+
+.like-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.like-icon {
+    font-size: 1.1em;
+    line-height: 1;
+}
+
+.like-count {
+    font-size: 0.9em;
+    min-width: 20px;
+    text-align: center;
+}
+
+/* Image Gallery Styling */
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1) !important;
+}
+
+.card-img-top {
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card-footer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+    .like-btn {
+        font-size: 0.85rem;
+        padding: 0.35rem 0.5rem;
+    }
+
+    .btn-sm {
+        font-size: 0.75rem;
+        padding: 0.3rem 0.5rem;
+    }
+}

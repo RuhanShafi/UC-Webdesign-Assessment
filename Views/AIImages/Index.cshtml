@@ -39,21 +39,50 @@
                         <p class="card-text text-muted">Created: @item.CreatedDate.ToShortDateString()</p>
                         <p class="card-text">@Html.DisplayFor(modelItem => item.Description)</p>
                     </div>
-                    <div class="card-footer d-flex justify-content-between">
-                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Details</a>
-                        <div>
-                            @if (item.CreatorId == currentUserId || isAdmin)
-                            {
-                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning me-2">Edit</a>
-                            }
-                            @if (isAdmin)
-                            {
-                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
-                            }
+                    <div class="card-footer">
+                        <div class="d-flex justify-content-between align-items-center mb-2 flex-wrap gap-2">
+                            <button type="button" 
+                                    class="btn btn-sm like-btn @(item.Likes.Any(l => l.UserId == currentUserId) ? "btn-danger" : "btn-outline-danger")" 
+                                    data-image-id="@item.Id"
+                                    @if (!User.Identity.IsAuthenticated) { <text>disabled</text> }>
+                                <span class="like-icon">♥</span>
+                                <span class="like-count">@item.LikeCount</span>
+                            </button>
+                            <div>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Details</a>
+                                @if (item.CreatorId == currentUserId || isAdmin)
+                                {
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                                }
+                                @if (isAdmin)
+                                {
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                                }
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         }
     </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center" role="alert">
+            <h4>No images yet</h4>
+            <p>Be the first to upload an AI-generated image!</p>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a asp-action="Create" class="btn btn-primary">Upload Image</a>
+            }
+            else
+            {
+                <p><a asp-area="Identity" asp-page="/Account/Login">Login</a> to upload images.</p>
+            }
+        </div>
+    }
 </div>
+
+@section Scripts {
+    <script src="~/js/aiimages-like.js" asp-append-version="true"></script>
+}

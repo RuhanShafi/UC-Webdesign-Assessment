@@ -32,4 +32,16 @@ namespace UC_Web_Assessment.Models
         [NotMapped]
         public IFormFile ImageFile { get; set; }  
     }
+
+    // Model for tracking likes
+    public class ImageLike
+    {
+        public int Id { get; set; }
+        public int AIImageId { get; set; }
+        public string UserId { get; set; }
+        public DateTime LikedDate { get; set; } = DateTime.Now;
+
+        // Foreign key relationship
+        public AIImage AIImage { get; set; }
+    }
 }

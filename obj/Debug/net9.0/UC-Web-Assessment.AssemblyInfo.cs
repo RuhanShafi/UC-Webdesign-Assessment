@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UC-Web-Assessment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79f3219fba59b0870e085550c4b4c41a388789d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7545a5c9890635f9062f4cac8a8f78a36d639378")]
 [assembly: System.Reflection.AssemblyProductAttribute("UC-Web-Assessment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UC-Web-Assessment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

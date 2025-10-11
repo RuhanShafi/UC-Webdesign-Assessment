@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Http;
 
 namespace UC_Web_Assessment.Models 
 {
-    // Model structure based on PDF (Page 22) and requirements (CreatorId)
     public class AIImage
     {
         public int Id { get; set; } // Primary Key
@@ -22,7 +21,13 @@ namespace UC_Web_Assessment.Models
         public DateTime CreatedDate { get; set; } = DateTime.Now; 
 
         // Required for Member-level authorization (Who created this?)
-        public required string CreatorId { get; set; } 
+        public required string CreatorId { get; set; }
+
+        // Like system
+        public int LikeCount { get; set; } = 0;
+
+        // Navigation for likes (one-to-many)
+        public ICollection<ImageLike> Likes { get; set; } = new List<ImageLike>();
 
         [NotMapped]
         public IFormFile ImageFile { get; set; }  

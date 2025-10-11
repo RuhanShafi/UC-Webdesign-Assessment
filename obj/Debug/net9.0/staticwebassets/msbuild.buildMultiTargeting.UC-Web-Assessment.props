@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/UC-Web-Assessment.props" />
-</Project>

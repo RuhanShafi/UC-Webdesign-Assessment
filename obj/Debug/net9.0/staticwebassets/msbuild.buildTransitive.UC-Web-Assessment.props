@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/UC-Web-Assessment.props" />
-</Project>

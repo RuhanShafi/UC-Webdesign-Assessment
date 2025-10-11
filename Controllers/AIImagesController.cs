@@ -3,13 +3,12 @@ using Microsoft.EntityFrameworkCore;
 using UC_Web_Assessment.Data; 
 using UC_Web_Assessment.Models; 
 using Microsoft.AspNetCore.Authorization;
-using System.Security.Claims; // Needed for User.FindFirstValue
+using System.Security.Claims;
 using Microsoft.AspNetCore.Hosting; 
 using System.IO;                   
 
 namespace UC_Web_Assessment.Controllers
 {
-    // Ensure all AIImage pages require a login unless explicitly allowed.
     [Authorize]
     public class AIImagesController : Controller
     {
@@ -22,41 +21,66 @@ namespace UC_Web_Assessment.Controllers
             _hostEnvironment = hostEnvironment;
         }
 
-        // ----------------------------------------------------
-        // 1. INDEX (READ - All Users/Visitors)
-        // ----------------------------------------------------
+        // INDEX (READ - All Users/Visitors)
         [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
-            return View(await _context.AIImage.ToListAsync());
+            var images = await _context.AIImage
+                .Include(a => a.Likes)
+                .ToListAsync();
+            return View(images);
         }
 
-        // ----------------------------------------------------
-        // 2. CREATE (Member/Admin Access)
-        // ----------------------------------------------------
+        // CREATE (Member/Admin Access)
         public IActionResult Create()
         {
-            // [Authorize] on the class handles access
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(AIImage aIImage) // Bind removed, we use the IFormFile property
+        public async Task<IActionResult> Create(AIImage aIImage)
         {
             if (ModelState.IsValid)
             {
                 if (aIImage.ImageFile != null)
                 {
-                    // 1. Call the file saving helper
-                    aIImage.ImagePath = await SaveImageFile(aIImage.ImageFile);
+                    // Validate file size (max 5MB)
+                    if (aIImage.ImageFile.Length > 5 * 1024 * 1024)
+                    {
+                        ModelState.AddModelError("ImageFile", "File size must be less than 5MB.");
+                        return View(aIImage);
+                    }
+
+                    // Validate file type
+                    var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif", ".webp" };
+                    var fileExtension = Path.GetExtension(aIImage.ImageFile.FileName).ToLower();
+                    if (!allowedExtensions.Contains(fileExtension))
+                    {
+                        ModelState.AddModelError("ImageFile", "Only image files (jpg, png, gif, webp) are allowed.");
+                        return View(aIImage);
+                    }
+
+                    try
+                    {
+                        aIImage.ImagePath = await SaveImageFile(aIImage.ImageFile);
+                    }
+                    catch (Exception ex)
+                    {
+                        ModelState.AddModelError("ImageFile", "Error uploading file: " + ex.Message);
+                        return View(aIImage);
+                    }
+                }
+                else
+                {
+                    ModelState.AddModelError("ImageFile", "Please select an image to upload.");
+                    return View(aIImage);
                 }
 
-                // 2. Set CreatorId and Date
                 aIImage.CreatorId = User.FindFirstValue(ClaimTypes.NameIdentifier);
                 aIImage.CreatedDate = DateTime.Now;
+                aIImage.LikeCount = 0;
 
-                // 3. Save model to database
                 _context.Add(aIImage);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -64,9 +88,7 @@ namespace UC_Web_Assessment.Controllers
             return View(aIImage);
         }
 
-        // ----------------------------------------------------
-        // 3. EDIT (Creator/Admin Access - Custom Logic)
-        // ----------------------------------------------------
+        // EDIT (Creator/Admin Access)
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null) return NotFound();
@@ -74,7 +96,6 @@ namespace UC_Web_Assessment.Controllers
             var aIImage = await _context.AIImage.FindAsync(id);
             if (aIImage == null) return NotFound();
 
-            // AUTHORIZATION CHECK
             var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var isAdmin = User.IsInRole("Admin");
 
@@ -96,36 +117,45 @@ namespace UC_Web_Assessment.Controllers
                 return NotFound();
             }
 
-            // 1. Load the original entity to get its non-form fields (CreatorId, CreatedDate, ImagePath)
             var originalImage = await _context.AIImage.AsNoTracking().FirstOrDefaultAsync(m => m.Id == id);
             if (originalImage == null)
             {
                 return NotFound();
             }
 
-            // 2. AUTHORIZATION CHECK: Use the CreatorId from the original database record
             var currentUserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             var isAdmin = User.IsInRole("Admin");
 
             if (originalImage.CreatorId != currentUserId && !isAdmin)
             {
-                // Deny access if not creator AND not admin
                 return Forbid();
             }
 
-            // 3. Update non-form fields on the posted model (aIImage) using original data
             aIImage.CreatorId = originalImage.CreatorId;
             aIImage.CreatedDate = originalImage.CreatedDate;
-            aIImage.ImagePath = originalImage.ImagePath; // Start with the existing path
+            aIImage.ImagePath = originalImage.ImagePath;
+            aIImage.LikeCount = originalImage.LikeCount;
 
             if (ModelState.IsValid)
             {
                 try
                 {
-                    // 4. Handle file upload if a new file was provided
                     if (aIImage.ImageFile != null)
                     {
-                        // Optional: Delete old file first
+                        if (aIImage.ImageFile.Length > 5 * 1024 * 1024)
+                        {
+                            ModelState.AddModelError("ImageFile", "File size must be less than 5MB.");
+                            return View(aIImage);
+                        }
+
+                        var allowedExtensions = new[] { ".jpg", ".jpeg", ".png", ".gif", ".webp" };
+                        var fileExtension = Path.GetExtension(aIImage.ImageFile.FileName).ToLower();
+                        if (!allowedExtensions.Contains(fileExtension))
+                        {
+                            ModelState.AddModelError("ImageFile", "Only image files are allowed.");
+                            return View(aIImage);
+                        }
+
                         if (!string.IsNullOrEmpty(originalImage.ImagePath))
                         {
                             string oldPath = Path.Combine(_hostEnvironment.WebRootPath, originalImage.ImagePath.TrimStart('/'));
@@ -135,11 +165,9 @@ namespace UC_Web_Assessment.Controllers
                             }
                         }
 
-                        // Save the new file and update the model's ImagePath
                         aIImage.ImagePath = await SaveImageFile(aIImage.ImageFile);
                     }
                     
-                    // 5. Save changes to the database
                     _context.Update(aIImage);
                     await _context.SaveChangesAsync();
                 }
@@ -157,9 +185,7 @@ namespace UC_Web_Assessment.Controllers
             return View(aIImage);
         }
 
-        // ----------------------------------------------------
-        // 4. DELETE (Admin Only)
-        // ----------------------------------------------------
+        // DELETE (Admin Only)
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {
@@ -177,48 +203,103 @@ namespace UC_Web_Assessment.Controllers
             var aIImage = await _context.AIImage.FindAsync(id);
             if (aIImage != null)
             {
+                if (!string.IsNullOrEmpty(aIImage.ImagePath))
+                {
+                    string filePath = Path.Combine(_hostEnvironment.WebRootPath, aIImage.ImagePath.TrimStart('/'));
+                    if (System.IO.File.Exists(filePath))
+                    {
+                        System.IO.File.Delete(filePath);
+                    }
+                }
+
                 _context.AIImage.Remove(aIImage);
             }
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        // ----------------------------------------------------
-        // 5. DETAILS (Admin Only)
-        // ----------------------------------------------------
+        // DETAILS (Admin Only)
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null) return NotFound();
-            var aIImage = await _context.AIImage.FirstOrDefaultAsync(m => m.Id == id);
+            var aIImage = await _context.AIImage
+                .Include(a => a.Likes)
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (aIImage == null) return NotFound();
             return View(aIImage);
         }
 
+        // LIKE/UNLIKE ACTION
+        [HttpPost]
+        [Authorize]
+        public async Task<IActionResult> ToggleLike(int id)
+        {
+            var image = await _context.AIImage
+                .Include(a => a.Likes)
+                .FirstOrDefaultAsync(a => a.Id == id);
 
-        // Image upload
+            if (image == null)
+            {
+                return NotFound();
+            }
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var existingLike = image.Likes.FirstOrDefault(l => l.UserId == userId);
+
+            if (existingLike != null)
+            {
+                // Unlike
+                _context.ImageLike.Remove(existingLike);
+                image.LikeCount--;
+            }
+            else
+            {
+                // Like
+                var like = new ImageLike { AIImageId = id, UserId = userId };
+                _context.ImageLike.Add(like);
+                image.LikeCount++;
+            }
+
+            await _context.SaveChangesAsync();
+
+            return Json(new { likeCount = image.LikeCount, isLiked = existingLike == null });
+        }
+
+        // CHECK IF USER LIKED IMAGE (for AJAX)
+        [AllowAnonymous]
+        public async Task<IActionResult> IsImageLiked(int id)
+        {
+            if (!User.Identity.IsAuthenticated)
+            {
+                return Json(new { isLiked = false });
+            }
+
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var isLiked = await _context.ImageLike
+                .AnyAsync(l => l.AIImageId == id && l.UserId == userId);
+
+            return Json(new { isLiked });
+        }
+
+        // IMAGE FILE UPLOAD HELPER
         private async Task<string> SaveImageFile(IFormFile file)
         {
-            // 1. Define the path (wwwroot/images/aiimages)
             string wwwRootPath = _hostEnvironment.WebRootPath;
             string uploadPath = Path.Combine(wwwRootPath, "images", "aiimages");
 
-            // Ensure the directory exists
             if (!Directory.Exists(uploadPath))
             {
                 Directory.CreateDirectory(uploadPath);
             }
 
-            // 2. Create a unique file name to avoid any duplicate using datetime | Let's avoid any exception handeling in a language you're learning for a project
             string fileName = Path.GetFileNameWithoutExtension(file.FileName);
             string extension = Path.GetExtension(file.FileName);
             fileName = fileName + DateTime.Now.ToString("yymmssfff") + extension;
 
-            // The path we'll save in the DB (relative to wwwroot)
             string pathForDb = "/images/aiimages/" + fileName;
             string fullPathOnServer = Path.Combine(uploadPath, fileName);
 
-            // 3. Save the file
             using (var fileStream = new FileStream(fullPathOnServer, FileMode.Create))
             {
                 await file.CopyToAsync(fileStream);
@@ -227,5 +308,4 @@ namespace UC_Web_Assessment.Controllers
             return pathForDb;
         }
     }
-    
 }
